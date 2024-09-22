@@ -1,0 +1,41 @@
+Cómo modificar tu programa:   https://pl.kotl.in/3F1aoGALr
+Como imprimir mas mensajes:    https://pl.kotl.in/ouz8bYdDT
+Como corregir tu codigo:    https://pl.kotl.in/Gk_uEkqfi
+¿Puedes leer el código en este programa y adivinar el resultado: https://pl.kotl.in/uCoL4gDPJ
+Usa el Playground de Kotlin para crear un programa que genere los siguientes mensajes:  https://pl.kotl.in/-EviCwF1T
+Copia y pega este programa en el Playground de Kotlin:   https://pl.kotl.in/rBV1MtRct
+Copia y pega este programa en el Playground de Kotlin y corrige:   https://pl.kotl.in/Kho7FIlu2
+Corrige el error de este programa para que produzca el resultado deseado: https://pl.kotl.in/0DR6xtReO
+Corrige el error de este programa para que produzca el resultado deseado:https://pl.kotl.in/1aQ2fRzdt
+Corrige el error de este programa para que produzca el resultado deseado: https://pl.kotl.in/el_imD-Kj
+Corrige el error de este programa para que produzca el resultado deseado: https://pl.kotl.in/Y7li1P9j6
+
+-----------Crea y usa variables - Ejercicios-------------------------------------------
+Reemplaza el código existente en el Playground de Kotlin con el siguiente programa:  https://pl.kotl.in/T6zBZjn_k
+Usa una variable: https://pl.kotl.in/ycOQjL2yd
+Plantilla de strings:   https://pl.kotl.in/0OVeLowt6
+Cuando ejecutas el programa, el resultado coincide con el objetivo deseado: https://pl.kotl.in/4hBPScIQM
+cambia el valor inicial de la variable count : https://pl.kotl.in/A_B6aaehy
+Crea un programa nuevo en el que se defina una variable de número entero para la cantidad de correos electrónicos no leídos de la carpeta de Recibidos:https://pl.kotl.in/7oZjkPrRa
+Para profundizar más este tema, crea variables con diferentes nombres y valores iniciales, y usa expresiones de plantillas para imprimir mensajes en el resultado:  https://pl.kotl.in/uPCQQbonY
+Actualiza Variables Continuacion:  https://pl.kotl.in/Yck5vdHVK
+Explora otros tipos de datos:  https://pl.kotl.in/CjrobLSVP
+Comenta tu codigo: https://pl.kotl.in/KrBlhWPlf
+---------------------------Cómo crear y usar funciones en Kotlin-------------------------------------
+Como definir una funcion: https://pl.kotl.in/--8vIGh1S
+Como devolver un valor de una funcion: https://pl.kotl.in/z-LliXdm8
+ Cómo agregar un parámetro a la función birthdayGreeting():  https://pl.kotl.in/hDdMNjvzL
+ Funciones con varios parámetros: https://pl.kotl.in/mX2Mm9qbp
+Argumentos con nombres: https://pl.kotl.in/9ENAxE7kV
+Argumentos predeterminados:  https://pl.kotl.in/CleveXvjF
+
+-------------------------------Problemas prácticos:Conceptos básicos de Kotlin--------------
+Primera parte:  https://pl.kotl.in/zkaoSkymp
+Implementacion de Operaciones:  https://pl.kotl.in/qln5HEAZ8
+PARAMETROS PREDETERMINADOS: https://pl.kotl.in/bzaTSLcza
+PODOMETRO: https://pl.kotl.in/oQ4sWJirE
+Comparacion de 2 numeros: https://pl.kotl.in/pq3QA7as8
+Movimiento del código duplicado a una función: https://pl.kotl.in/5h2HYpIX3
+
+
+
